@@ -1,0 +1,201 @@
+
+html, body, div , span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; font: inherit; font-size: 100%; vertical-align: baseline; }
+
+html { line-height: 1; }
+
+ol, ul { list-style: none; }
+
+table { border-collapse: collapse; border-spacing: 0; }
+
+caption, th, td { text-align: left; font-weight: normal; vertical-align: middle; }
+
+q, blockquote { quotes: none; }
+q:before, q:after, blockquote:before, blockquote:after { content: ""; content: none; }
+
+a img { border: none; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary { display: block; }
+
+img { display: block; border: none; }
+
+
+body{
+    background-color: #F0F0D6;
+    max-width: 1460px;
+    max-height: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+iframe{
+	position: absolute;
+    background-color:#fff; 
+    width:100%; 
+    height:100%;  
+    z-index:1;
+   
+}
+
+
+.lottery{
+    margin:0px;
+    width:100 %
+    position:absolute;
+    z-index: 1;
+}
+
+
+.game{
+
+   float: left;
+   display: inline-block;
+   width: 43%;
+   margin: 0% 0% auto 4.6%;
+}
+
+
+.list{
+
+    float:left;
+    display: inline-block;
+    width: 43%;
+    height:100%;
+    margin:0% 4.66% auto 4.6%;
+}
+
+
+
+.box{
+    width:100%;
+    display: inline-block;
+    background-color: #fff;
+    position: relative;
+	height: 100%;
+}   
+
+.box-container {
+	height:200px;
+	position:relative;
+	margin-top:2%;
+}
+
+.list .return{
+
+    
+    float:right;
+    display:inline-block;
+    width:15%;
+    margin-top:2%;
+   
+
+
+}
+
+/*
+ .listbody{
+        width:660px;
+        height: 500px;
+       
+        background-color: #fff;
+    }
+
+
+
+
+.dt1{
+        width:100%;
+        height:100%;
+        float:left;
+        font-family:  arial, Microsoft JhengHei ;
+        font-size: 3em;
+        text-align: center;
+        color:#fff;
+        background: #F7A6AF;
+        margin:1%;
+}
+
+.dt2{
+        width:100%;
+        height:49%;
+        float:left;
+        font-family:  arial, Microsoft JhengHei ;
+        font-size: 3em;
+        text-align: center;
+        color:#fff;
+        background: #F7A6AF;
+        margin:1%;
+}
+
+.dt3{
+        width:100%;
+        height:52px;
+        float:left;
+        font-family:  arial, Microsoft JhengHei ;
+        font-size: 2em;
+        text-align: center;
+        color:#fff;
+        background: #F7A6AF;
+        margin:5px ;
+    }
+
+
+.circle_red{
+
+     width: 40px;  
+     border-radius: 50% ;
+     background-color: #F98592;
+     margin:2% ;
+     float:left;
+}
+
+
+
+.dt1{
+        width:100%;
+        float:left;
+        font-family:  arial, sans-srief;
+        font-size: 5em;
+        text-align: center;
+        color:#fff;
+        background: #F7A6AF;
+        padding: 14%;
+        margin:1%;
+}
+
+
+
+.dt2{
+        width:100%;
+        float:left;
+        font-family:  arial, sans-srief;
+        font-size: 1em;
+        text-align: center;
+        color:#fff;
+        background: #F7A6AF;
+        padding: 6%;
+        margin:1%;}
+.dt3{
+         width:100%;
+        float:left;
+        font-family:  arial, sans-srief;
+        font-size: 1em;
+        text-align: center;
+        color:#fff;
+        background: #F7A6AF;
+        padding: 4%;
+        margin:1% ;
+    }
+    
+
+.name{
+
+    font-family:  arial, sans-srief;
+        font-size: 50px
+        text-align: center;
+        color:#EEF4F7;
+        background: #F7A6AF;
+        padding: 14%;
+}
+*/
+
